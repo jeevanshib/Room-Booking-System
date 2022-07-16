@@ -1,0 +1,65 @@
+body{   
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 1.0)), url(mujbg.jpeg);
+	height: 100vh;
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-position: center center;
+	position: relative;
+}  
+#frm{  
+    border: solid rgb(255, 255, 255) 1px;  
+    width:25%;  
+    border-radius: 6px;  
+    margin: 150px auto;   
+    padding: 90px;  
+    color: aliceblue;
+}  
+#btn{  
+    color: rgb(0, 0, 0);  
+    background: #ffffffb6;  
+    padding: 7px;  
+     
+} 
+#reg-form{
+    margin-top: 50px;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding-left: 100px;
+    display: inline-block;
+    font-size: 20px;
+    color: aliceblue;
+}
+.btn{
+    background: #ffffffb6;  
+    padding: 10px;
+    text-align: center;
+    font-size: 15px;
+    margin-left:150px ;
+}
+.button {
+    background-color: #b3befa;
+    border: 0px;
+    color: rgb(0, 0, 0);
+    padding: 20px 50px;
+    
+    font-size: 26px;
+    
+    cursor: pointer;
+    
+      width: 250px;  
+      border-radius: 6px;  
+      margin: 250px auto;   
+      padding: 20px;  
+      margin-left: 120px;
+      margin-top: 320px;
+      color: rgb(0, 0, 0);
+  }
+  .button1 {
+      border: 50px;
+      display: inline-block;
+      font-size: 16px;
+      margin:0% 300px;
+      cursor: pointer;
+      background-position: center center;
+      position: relative;
+    }
